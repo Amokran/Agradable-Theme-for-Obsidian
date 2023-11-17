@@ -1,3 +1,4 @@
+
 body {
 	--radius-s: 0px;
 	--radius-m: 0px;
@@ -8,9 +9,6 @@ body {
 	--toggle-radius: 0px;
 	--toggle-thumb-radius: 0px;
 	--slider-thumb-radius: 0px;
-
-	--obsidian-font-family: "Verdana";
-    --obsidian-font-size: 20px;
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
@@ -37,17 +35,18 @@ svg * {
 }
 
 .theme-dark {
-  --background-primary: #35332d;
+
+  --background-primary: rgb(43, 41, 38);
   --background-secondary: #3b372c;
 
-  --text-normal: rgb(166, 175, 165);
-  --text-selection: #795c0d;
+  --text-normal: rgb(141, 162, 201);
+  --text-selection: #0e665f;
 }
 
 .theme-light {
   --background-primary: #e4e0dc;
-  --background-secondary: #b8ae9e;
+  --background-secondary: rgb(184, 171, 142);
 
-  --text-normal: rgb(48, 50, 51);
+  --text-normal: rgb(20, 22, 22);
   --text-selection: #d19e12;
 }

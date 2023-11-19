@@ -9,6 +9,14 @@ body {
 	--toggle-radius: 16px;
 	--toggle-thumb-radius: 16px;
 	--slider-thumb-radius: 16px;
+
+	--tag-decoration:                 none;
+    --tag-decoration-hover:           underline;
+    --tag-padding-x:                  .5em;
+    --tag-padding-y:                  .2em;
+    --tag-radius:                     .5em;
+
+
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
@@ -41,6 +49,16 @@ svg * {
 
   --text-normal: rgb(166, 190, 233);
   --text-selection: #0e665f;
+
+  --h1-color: rgba(236, 123, 70, 0.87);
+  --h2-color: #47c547;                     
+  --h3-color: #6cb7dd;                     
+  --h4-color: #67b6ddbe;                     
+  --h5-color: #61b2db8e;                     
+  --h6-color: #a7ccdf63;       
+  
+  --icon-color-hover:  #c40909;
+  --icon-color-focused: #c40909;
 }
 
 .theme-light {
@@ -49,4 +67,15 @@ svg * {
 
   --text-normal: rgb(20, 22, 22);
   --text-selection: #d19e12;
+
+  --h1-color: rgb(218, 75, 8);
+  --h2-color: #139113;                     
+  --h3-color: #36a4db;                     
+  --h4-color: #36a4dbbe;                     
+  --h5-color: #36a4db6e;                     
+  --h6-color: #36a4db18;                     
+
+  --icon-color-hover:  #c40909;
+  --icon-color-focused: #c40909;
+
 }

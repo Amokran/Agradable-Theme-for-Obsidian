@@ -64,7 +64,7 @@ svg * {
 }
 
 .theme-light {
-  --background-primary: #e4e0dc;
+  --background-primary: #8f7f60;
   --background-secondary: rgb(184, 171, 142);
 
   --text-normal: rgb(20, 22, 22);
@@ -72,9 +72,9 @@ svg * {
   --text-muted:  rgb(40, 52, 52);
   --text-selection: #d19e12;
 
-  --h1-color: rgb(218, 75, 8);
-  --h2-color: #139113;                     
-  --h3-color: #36a4db;                     
+  --h1-color: #52260b;
+  --h2-color: #521003;                     
+  --h3-color: #0b2052;                     
   --h4-color: #36a4dbbe;                     
   --h5-color: #36a4db6e;                     
   --h6-color: #36a4db18;                     

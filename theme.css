@@ -64,7 +64,7 @@ svg * {
 }
 
 .theme-light {
-  --background-primary: #8f7f60;
+  --background-primary:  rgb(174, 151, 142);
   --background-secondary: rgb(184, 171, 142);
 
   --text-normal: rgb(20, 22, 22);

@@ -55,7 +55,7 @@ svg * {
   --h1-color: rgba(236, 123, 70, 0.87);
   --h2-color: #47c547;                     
   --h3-color: #6cb7dd;                     
-  --h4-color: #67b6ddbe;                     
+  --h4-color: #7b6ddbe;                     
   --h5-color: #61b2db8e;                     
   --h6-color: #a7ccdf63;       
   
@@ -75,9 +75,9 @@ svg * {
   --h1-color: #52260b;
   --h2-color: #521003;                     
   --h3-color: #0b2052;                     
-  --h4-color: #36a4dbbe;                     
-  --h5-color: #36a4db6e;                     
-  --h6-color: #36a4db18;                     
+  --h4-color: #8f1dbb;                     
+  --h5-color: #8f1d55;                     
+  --h6-color: #6a0a77;                     
 
   --icon-color-hover:  #c40909;
   --icon-color-focused: #c40909;

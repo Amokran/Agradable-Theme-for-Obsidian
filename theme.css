@@ -63,6 +63,21 @@ svg * {
   --icon-color-focused: #c40909;
 }
 
+.theme-dark .cm-s-obsidian span.cm-highlight {
+  background-color: rgb(23, 123, 136) !important;
+  color: rgb(14, 13, 13) !important;
+}
+
+/* Cambiar el color de fondo de la cinta superior */
+.theme-dark .titlebar {
+  background-color: #0a0802; /* Cambia este valor por el color que prefieras */
+}
+
+/* Cambiar el color del texto en la cinta superior */
+.theme-dark .titlebar-title {
+  color: #e7d37b; /* Color del texto */
+}
+
 .theme-light {
   --background-primary:  rgb(174, 151, 142);
   --background-secondary: rgb(184, 171, 142);
@@ -82,4 +97,19 @@ svg * {
   --icon-color-hover:  #c40909;
   --icon-color-focused: #c40909;
 
+}
+
+.theme-light .cm-s-obsidian span.cm-highlight {
+  background-color: rgb(23, 123, 136) !important;
+  color: rgb(14, 13, 13) !important;
+}
+
+/* Cambiar el color de fondo de la cinta superior */
+.theme-light .titlebar {
+  background-color: #6d6b65; /* Cambia este valor por el color que prefieras */
+}
+
+/* Cambiar el color del texto en la cinta superior */
+.theme-light .titlebar-title {
+  color: #e6bd08; /* Color del texto */
 }
